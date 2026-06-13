@@ -1,0 +1,21 @@
+robotics-education-toolkit/
+│
+├── README.md
+├── LICENSE
+│
+├── lessons/
+│   ├── robotics/
+│   ├── scratch/
+│   └── 3d-modeling/
+│
+├── models/
+│   ├── stl/
+│   └── projects/
+│
+├── code/
+│   ├── arduino/
+│   └── examples/
+│
+├── images/
+│
+└── docs/
